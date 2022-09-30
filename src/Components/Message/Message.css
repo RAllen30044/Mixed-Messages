@@ -1,0 +1,35 @@
+.messageForm{
+    display: flex;
+    justify-content: center;
+}
+
+
+input{
+    font-size: 24px;
+}
+.textbox{
+    box-sizing: border-box;
+
+position: relative;
+width: 364px;
+height: 38px;
+
+top: 37px;
+
+background: #FFFFFF;
+border: 1px solid #000000;}
+
+.submitButton{
+    box-sizing: border-box;
+
+position: relative;
+width: 89px;
+height: 38px;
+
+top: 37px;
+font-size: 24;
+background: #D1D1D1;
+border: 1px solid #000000;
+box-shadow: 3px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
